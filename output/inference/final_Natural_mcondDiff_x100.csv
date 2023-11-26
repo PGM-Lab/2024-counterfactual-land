@@ -1,0 +1,12 @@
+cause,effect,label,lb,metric,ub
+social_1_Ec001_ActR,alt_LandUse_1_Env098_Natural,0,-0.18154737931156595,condDiff,-0.18154737931156595
+social_1_S042_Pdens,alt_LandUse_1_Env098_Natural,1,-0.2559550437349263,condDiff,-0.2559550437349263
+social_1_S007_EGR,alt_LandUse_1_Env098_Natural,2,-0.1081194313432221,condDiff,-0.1081194313432221
+social_1_S013_IME,alt_LandUse_1_Env098_Natural,3,-0.09747613873846928,condDiff,-0.09747613873846928
+social_1_S015_ODI,alt_LandUse_1_Env098_Natural,4,-0.25979668388564653,condDiff,-0.25979668388564653
+Topography_Env104_MGU_litt,alt_LandUse_1_Env098_Natural,5,-0.5544121114731277,condDiff,-0.5544121114731277
+social_1_S003_MsR,alt_LandUse_1_Env098_Natural,6,-0.10128645719622564,condDiff,-0.10128645719622564
+altEconomyClass_1_Ec109_OcuTradBankServHab,alt_LandUse_1_Env098_Natural,7,-0.13569179217855842,condDiff,-0.13569179217855842
+altEconomyClass_1_Ec096_OcuSecunHab,alt_LandUse_1_Env098_Natural,8,-0.042272197907843645,condDiff,-0.042272197907843645
+social_1_S040_Tbnatalidad,alt_LandUse_1_Env098_Natural,9,-0.1511591318209543,condDiff,-0.1511591318209543
+social_1_S036_Tbmortalid,alt_LandUse_1_Env098_Natural,10,-0.13082149464342552,condDiff,-0.13082149464342552
