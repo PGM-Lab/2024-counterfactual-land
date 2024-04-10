@@ -1,6 +1,6 @@
 # Counterfactual Reasoning with Probabilistic Graphical Models for Analyzing Socioecological Systems
 
-This bundle contains the manuscript submitted to the _Environmental and Ecological Statistics_ and entitled  "Counterfactual Reasoning with Probabilistic Graphical Models for Analyzing Socioecological Systems".
+This bundle contains the manuscript submitted to the _Environmetrics_ and entitled  "Counterfactual Reasoning with Probabilistic Graphical Models for Analyzing Socioecological Systems".
 The organisation  is the following:
 
 - _code_: Java files for replicating the case of study.
