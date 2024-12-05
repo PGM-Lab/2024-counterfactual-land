@@ -1,6 +1,6 @@
-# Counterfactual Reasoning with Probabilistic Graphical Models for Analyzing Socioecological Systems
+# Bayesian Networks for Causal Analysis in Socioecological Systems
 
-This bundle contains the manuscript submitted to the _Environmetrics_ and entitled  "Counterfactual Reasoning with Probabilistic Graphical Models for Analyzing Socioecological Systems".
+This bundle contains the manuscript submitted to the _Ecological Informatics_ and entitled  "Bayesian Networks for Causal Analysis in Socioecological Systems".
 The organisation  is the following:
 
 - _code_: Java files for replicating the case of study.
